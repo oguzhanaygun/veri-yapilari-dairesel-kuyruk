@@ -1,0 +1,10 @@
+﻿Build started 12.11.2014 01:40:27.
+     1>Project "C:\Users\oguzhan\Documents\Visual Studio 2013\Projects\circularqueue\circularqueue\circularqueue.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D "WIN32" /D NDEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\circularqueue.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt circularqueue.cpp
+         circularqueue.cpp
+     1>Done Building Project "C:\Users\oguzhan\Documents\Visual Studio 2013\Projects\circularqueue\circularqueue\circularqueue.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65
